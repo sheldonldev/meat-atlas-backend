@@ -1,6 +1,7 @@
 # **Project: Meat Atlas of China**
 
-**请先阅读以下《法律声明》**
+**This is a private repo, pleas read the legal notices in advance**
+**这是一个私有库， 请先阅读以下《法律声明》**
 
 # 法律声明 Legal Notices
 

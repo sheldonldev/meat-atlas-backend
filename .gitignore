@@ -563,8 +563,11 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-/data/FAO/
-!/data/FAO/metadata
 
-/data/USDA/
-!/data/USDA/metadata
+
+/data/FAO/*
+!/data/FAO/metadata/
+
+/data/USDA/*
+!/data/USDA/metadata/
+
